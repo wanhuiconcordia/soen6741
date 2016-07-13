@@ -1,0 +1,63 @@
+1. INTRODUCTION
+2. DEFINITION OF MODEL
+	A simplification, with respect to some goal, of a thing.
+3. CHARACTERISTICS OF A MODEL
+	satisfy the following criteria
+		1. Mapping Criterion: There must be an ‘original’ that is mapped to the model.
+		2. Reduction Criterion: The model must exhibit some, but not necessarily all, properties of the original.
+		3. Pragmatic Criterion: The model must be able to replace the original for some purpose, that is, the model is useful.
+4. HISTORY AND EVOLUTION OF CONCEPTUAL MODELING
+5. EXAMPLES OF MODELS
+6. META-MODEL
+	A meta-model is a model of a model.
+7. MOTIVATION FOR MODELING
+	Communicate with People
+	Document Decisions
+	Furnish(布置；装备；提供) Abstractions
+	Understand Domain:A model could be used to understand the problem or the solution domain better
+	Provide Structure
+	To Explore and To Create:In general, for a single problem, there can be multiple solutions. A model could be used to explore multiple solutions. In doing so, models open avenues for experimentation, creative thinking, and innovation at relatively little cost. For example, a prototype is a kind of model used for this purpose. For another example, use case models can be used for software project estimation.
+	Discover Errors
+	Manage Risk
+	Follow Trend
+8. THE MODEL ECOSYSTEM
+	Thing
+	Stakeholder
+	Quality
+	Modeling Language
+	Tool
+	Medium
+	Modality
+	Process
+	Related Models/Documents
+9. CLASSIFICATION OF MODELS
+	9.1. PHYSICAL VERSUS CONCEPTUAL
+	9.2. DESCRIPTIVE VERSUS PRESCRIPTIVE
+		A model of a thing that already exists is a descriptive model. For example, a (problem) domain model or a user model (such as a persona) is a descriptive model.
+		A descriptive model makes indicative statements. For example, a statement of the type “ ... X is Y ...” is an indicative statement.
+		A model of a thing that does not (yet) exist is a prescriptive model. For example, a use case model is a prescriptive model.
+		A prescriptive model makes putative statements. For example, a statement of the type “... X should do Y ...” is a putative statement.
+	9.3. GENERATIVE VERSUS REFLECTIVE
+10. GOAL OF A MODEL
+	Goal										Type of Model
+	Understand Value of Software System to an Organization				Business Model
+	Understand Problem Domain 							Problem Domain Model
+	Understand User									User Model
+	Understand Interaction between a User and the Software System			Use Case Model
+11. STAKEHOLDERS OF A MODEL
+12. THE THING TO MODEL MAPPING
+13. VIEWS IN SOFTWARE MODELING
+14. CONCEPTUAL MODELS AS BOUNDARY OBJECTS
+15. ON VIEWPOINTS AND VIEWS OF A MODEL
+	the mapping between the set of things and the set of models is many-to-many
+16. ABSTRACTION IN CONCEPTUAL MODELING
+17. ON ‘SIMPLIFICATIONS’ OF A MODEL: Show Only What You Have to Show
+18. MODALITY OF A MODEL
+	TEXT VERSUS GRAPHICS
+19. REPRESENTATION AND PRESENTATION OF A MODEL
+	The representation of a model is relevant to machines. The presentation of a model is relevant to humans.
+	The separation between representation and presentation of a model is important for a variety of reasons, including productivity, reusability, and maintainability.
+20. MEDIUM OF A MODEL
+21. DEFINITION OF CONCEPTUAL MODELING
+	The activity of formally describing some aspects of the physical and social world around usfor purposes of understanding and communication (serve the goals).
+22. THE PROCESS OF CONCEPTUAL MODELING
