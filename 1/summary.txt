@@ -60,4 +60,60 @@
 20. MEDIUM OF A MODEL
 21. DEFINITION OF CONCEPTUAL MODELING
 	The activity of formally describing some aspects of the physical and social world around usfor purposes of understanding and communication (serve the goals).
-22. THE PROCESS OF CONCEPTUAL MODELING
+22. THE PROCESS OF CONCEPTUAL MODELING: say nothing, garbage
+23. AGILE MODELING
+	PRINCIPLES OF AGILE MODELING
+		Core Principles
+			Assume Simplicity
+			Embrace Change
+			Enabling the Next Effort is Your Secondary Goal
+			Incremental Change [+]
+			Maximize Stakeholder ROI [+]
+			Model With a Purpose [+]
+			Multiple Models [+]
+			Quality Work
+			Rapid Feedback
+			Working Software Is Your Primary Goal
+			Travel Light
+
+		Supplementary Principles
+			Content is More Important Than Representation [+]
+			Open and Honest Communication
+
+	PRACTICES OF AGILE MODELING
+		Core Practices
+			Active Stakeholder Participation
+			Apply the Right Artifact(s)
+			Collective Ownership [+]
+			Create Several Models in Parallel
+			Create Simple Content
+			Depict Models Simply
+			Display Models Publicly [−]
+			Iterate to Another Artifact
+			Model in Small Increments [+]
+			Model With Others [+]
+			Prove it With Code
+			Single Source Information
+			Use the Simplest Tools [+]
+		Supplementary Practices
+			Apply Modeling Standards
+			Apply Patterns Gently
+			Discard Temporary Models [−]
+			Formalize Contract Models
+			Update Only When It Hurts
+
+24. LITERATE MODELING
+	The goal to make computer programs more communicable led to a style of programming known as Literate Programming.
+25. PAIR MODELING
+26. SITUATING CONCEPTUAL MODELING IN A SOFTWARE PROCESS
+27. MODELING MATURITY
+	Maturity Level		Activity/Artifact
+	Level 0			No Specification
+	Level 1			Textual
+	Level 2			Text with Diagrams
+	Level 3			Models with Text
+	Level 4			Precise Models(Use of Object Constraint Language (OCL).)
+	Level 5			Models Only
+28. PRINCIPLES OF MODELING
+
+
