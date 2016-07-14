@@ -1,0 +1,43 @@
+UNDERSTANDING SOFTWARE ARCHITECTURE
+1. INTRODUCTION
+	concerned with 
+		(1) how a system is organized into its constituent elements
+		(2) how those elements relate to each other to achieve a given purpose
+2. UNDERSTANDING SOFTWARE ARCHITECTURE AS A DISCIPLINE
+	What: definition of software architecture, and classification (or types) of software architecture
+	Why: requirements
+	Who: the individuals and the organization
+	Where: different levels at which architecting takes place, and the different perspectives (or views) from which architecture can be described.
+	How: he approaches (or methods) that can be adopted, and the activities that can be conducted in formulating the desired software architecture
+	With What: the resources that can be used in formulating the desired software architecture. These means can include experiential knowledge, languages, tools, and software architecture description. For example: documentation
+3. DEFINITION OF DESIGN
+4. DEFINITION OF SOFTWARE DESIGN
+	The software engineering life cycle activity in which software requirements are analyzed in order to produce a description of the software’s [external and] internal structure that will serve as the basis for its construction.  requirement --> design --> implementation
+5. SIGNIFICANCE OF SOFTWARE DESIGN
+	Early Artifacts
+	Early Analysis
+	Early Alternates
+6. TYPES OF SOFTWARE DESIGN
+	Macro-Architecture Design: The aspect of software design that describes how software is decomposed and organized into components, and the interfaces between those components. This is independent of any paradigm. The focus is on components and connectors.
+	Micro-Architecture Design: The aspect of software design that describes the components at a level of detail that enable their construction. This is usually dependent on a paradigm, such as functional, object-oriented, or procedure-oriented.
+	The focus is on algorithms and data structures. It can be noted that software architecture is design; however, not all software design is software architecture.
+7. DEFINITION OF SOFTWARE ARCHITECTURE
+	(1)The fundamental organization of a system [as] embodied in its components, their relationships to each other, and to the environment, and the principles guiding its design and evolution.
+	(2)The description of the subsystems and components of a software system and the relationships between them.
+	...
+8. CHARACTERISTICS OF SOFTWARE ARCHITECTURE
+	Existence
+	Abstraction
+	Behavior
+
+9.10 GARBAGE
+11. SIGNIFICANCE OF SOFTWARE ARCHITECTURE
+	Allocation of Work
+	Communication among Stakeholders
+	Early Design Decisions
+	Constraints on Implementation:The discrepancy between software architecture description (design) and software architecture (implementation) is called [architectural erosion***]
+	Conceptual Reuse as Transferable Abstraction of a System   [Software Product Line***]
+	Reduction of Risk of Software Project Failures
+12. SOFTWARE ARCHITECTURE AND ITS ENVIRONMENT
+	The most significant source of influence on software architecture is the[ organization***] that is responsible for the corresponding system.
+13. SOFTWARE ARCHITECTURE AND ORGANIZATION

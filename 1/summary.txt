@@ -115,5 +115,42 @@
 	Level 4			Precise Models(Use of Object Constraint Language (OCL).)
 	Level 5			Models Only
 28. PRINCIPLES OF MODELING
+	Principle 1. The choice of what models to create has a profound influence on how a problem is [approached] and how a solution is shaped.
+	Principle 2. Every model may be expressed at different levels of precision.
+	Principle 3. The best models are connected to reality.
+		by definition, all models need to simplify reality; the trick is ensuring that the simplifications do not mask any important details.
+	Principle 4. No single model or view is sufficient.
+	Principle 5. Keep abstraction levels consistent.
+	Principle 6. Keep related models consistent.
+29. LANGUAGES FOR CONCEPTUAL MODELING
+	The selection of a modeling language can vary on a number of criteria including
+		applicability (that is, suitability for purpose)
+		expressivity (of information)
+		formality(mathematical ‘rigor’ 10 )
+		learnability (by stakeholders)
+		modality (of notation)
+		support (say, through standardization, adoption, presence of tools, and so on)
 
-
+	The notation of modeling language:
+		primary notation:representation. 
+		secondary notation: presentation.
+30. TOOLS FOR CONCEPTUAL MODELING(modeler)
+31. MANAGEMENT OF CONCEPTUAL MODELS
+32. QUALITY OF CONCEPTUAL MODELS
+	Definition [Quality of Conceptual Model]:The totality of characteristics of a conceptual model that bear on its ability to satisfy stated and implied needs
+				承受/满足 明确和隐含 需要的 能力
+	expressiveness is a lexical quality
+	correctness is a syntactic quality
+	consistency is a semantic quality
+	accessibility is a pragmatic quality
+	credibility is a social quality
+34. ORGANIZING ELEMENTS OF A MODEL
+35. PERCEPTION IN CONCEPTUAL MODELING
+	there are six main factors that determine how humans group things according to visual perception:
+		Proximity
+		Similarity
+		Closure
+		Symmetry
+		Uniform Destiny (Common Fate)
+		Continuity
+	
