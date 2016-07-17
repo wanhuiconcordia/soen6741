@@ -1,0 +1,7 @@
+VIEWS AND VIEWPOINTS OF SOFTWARE ARCHITECTURE
+1. INTRODUCTION
+2. MOTIVATION FOR VIEWS AND VIEWPOINTS
+	Proper Delivery and Deployment
+	Understanding Software Systems via Understanding Human Systems
+	***the principle of separation of concerns
+3. VIEWS, VIEWPOINTS, AND SOFTWARE ARCHITECTURE DESCRIPTION
